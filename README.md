@@ -1,4 +1,4 @@
-# SQL Sample Database (Beginner Friendly)
+# SQL Sample Database
 
 A tiny SQLite database to practice SQL:
 - JOINs
